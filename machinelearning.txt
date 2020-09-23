@@ -1,0 +1,17 @@
+notes for machine learning
+model
+
+1.import shit
+2.file get
+3.look at file
+4.features and target defined
+5.traintest split
+6.data imporvement.
+
+
+
+model defining
+model training
+model testing
+model using
+getting output
